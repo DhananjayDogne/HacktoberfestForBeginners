@@ -53,7 +53,7 @@ public class suduko {
   //main method
     public static void main(String[] args) {
       
-      //creating 2d array for suduko
+      //creating 2d array for suduko 
         char[][] board= {
             {'9', '5', '7', '.', '1', '3', '.', '8', '4'},
             {'4', '8', '3', '.', '5', '7', '1', '.', '6'},
